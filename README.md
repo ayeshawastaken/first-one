@@ -1,2 +1,3 @@
 # first-one
-I'm trying my best ok
+
+My first repository, one that I am using to store code written in an Introduction to Computer Science Course. 
