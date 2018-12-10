@@ -239,4 +239,4 @@ for word_and_def in hero_dictionary:
   print()
 
 print("Well done hero! You made a very nice dictionary.")
-print("Farewell, for now, hero. Your adventure will continue in another exersice.")
+print("Farewell, for now, hero. Your adventure will continue in another exercise.")
