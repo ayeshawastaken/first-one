@@ -1,5 +1,15 @@
 # IntroCompSciWork
 
+Files included in the repostitory:
+* Exercises 0-8
+* Challenge 1
+* Assignment 1
+* Exercises 9-15
+* Challenge 3
+* Assignment 2
+
+**The class for which this repository was made is coming to an end, so it will likely not be edited further**
+
 My first repository, one that I am using to store code written in an Introduction to Computer Science Course.
 
 The folder PreAssignment1Work contains several exercises relating to basic Python concepts, which were used to prepare for Assignment 1. Assignment 1, in the Assigments folder, was used to test a basic understanding of such concepts. 
