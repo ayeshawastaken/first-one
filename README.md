@@ -8,7 +8,7 @@ Files included in the repostitory:
 * Challenge 3
 * Assignment 2
 
-**The class for which this repository was made is coming to an end, so it will likely not be edited further**
+**The class for which this repository was made is coming to an end, so it will likely not be edited further.**
 
 My first repository, one that I am using to store code written in an Introduction to Computer Science Course.
 
